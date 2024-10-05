@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SerializerTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc8cd5676ef7309aad950f5ac6130df858985ab8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83282cc4059ec203a22cdd46dd86221212d21d89")]
 [assembly: System.Reflection.AssemblyProductAttribute("SerializerTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SerializerTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

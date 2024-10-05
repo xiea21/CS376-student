@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
-
+Console.WriteLine("hi");
 namespace Assets.Serialization
 {
     /// <summary>
@@ -191,28 +191,28 @@ namespace Assets.Serialization
             {
                 case null:
                     throw new NotImplementedException("Fill me in");
-                    break;
+                    //break;
 
                 case int i:
                     throw new NotImplementedException("Fill me in");
-                    break;
+                    //break;
 
                 case float f:
                     throw new NotImplementedException("Fill me in");
-                    break;
+                    //break;
 
                 // Not: don't worry about handling strings that contain quote marks
                 case string s:
                     throw new NotImplementedException("Fill me in");
-                    break;
+                    //break;
 
                 case bool b:
                     throw new NotImplementedException("Fill me in");
-                    break;
+                    //break;
 
                 case IList list:
                     throw new NotImplementedException("Fill me in");
-                    break;
+                    //break;
 
                 default:
                     if (o.GetType().IsValueType)

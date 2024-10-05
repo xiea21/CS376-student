@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\SerializerTests\\SerializerTests.csproj": {}
+    "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\SerializerTests\\SerializerTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\SerializerTests\\SerializerTests.csproj": {
+    "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\SerializerTests\\SerializerTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\SerializerTests\\SerializerTests.csproj",
+        "projectUniqueName": "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\SerializerTests\\SerializerTests.csproj",
         "projectName": "SerializerTests",
-        "projectPath": "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\SerializerTests\\SerializerTests.csproj",
+        "projectPath": "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\SerializerTests\\SerializerTests.csproj",
         "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\SerializerTests\\obj\\",
+        "outputPath": "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\SerializerTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\antho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj": {
-                "projectPath": "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj"
+              "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj": {
+                "projectPath": "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj"
               }
             }
           }
@@ -84,18 +84,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj": {
+    "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj",
+        "projectUniqueName": "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj",
         "projectName": "Serializer",
-        "projectPath": "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj",
+        "projectPath": "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj",
         "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\obj\\",
+        "outputPath": "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\antho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -144,7 +144,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.402/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
