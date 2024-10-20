@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj": {}
+    "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj": {}
   },
   "projects": {
-    "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj": {
+    "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj",
+        "projectUniqueName": "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj",
         "projectName": "Serializer",
-        "projectPath": "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj",
+        "projectPath": "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj",
         "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\obj\\",
+        "outputPath": "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\antho\\AppData\\Roaming\\NuGet\\NuGet.Config",

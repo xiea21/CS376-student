@@ -1799,11 +1799,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\SerializerTests\\SerializerTests.csproj",
+      "projectUniqueName": "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\SerializerTests\\SerializerTests.csproj",
       "projectName": "SerializerTests",
-      "projectPath": "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\SerializerTests\\SerializerTests.csproj",
+      "projectPath": "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\SerializerTests\\SerializerTests.csproj",
       "packagesPath": "C:\\Users\\antho\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\SerializerTests\\obj\\",
+      "outputPath": "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\SerializerTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\antho\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1820,8 +1820,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj": {
-              "projectPath": "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj"
+            "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj": {
+              "projectPath": "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\Serializer\\Serializer.csproj"
             }
           }
         }

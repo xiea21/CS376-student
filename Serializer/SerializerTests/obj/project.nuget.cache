@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KPGeYpi9rqo=",
+  "dgSpecHash": "yNlQue5fTU4=",
   "success": true,
-  "projectFilePath": "c:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\SerializerTests\\SerializerTests.csproj",
+  "projectFilePath": "C:\\Users\\antho\\OneDrive\\Documents\\GitHub\\CS376-student\\Serializer\\SerializerTests\\SerializerTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\antho\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\antho\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
-Console.WriteLine("hi");
+
 namespace Assets.Serialization
 {
     /// <summary>
@@ -190,29 +190,29 @@ namespace Assets.Serialization
             switch (o)
             {
                 case null:
-                    throw new NotImplementedException("Fill me in");
-                    //break;
+                    Write("null");
+                    break;
 
                 case int i:
-                    throw new NotImplementedException("Fill me in");
-                    //break;
+                    Write(i);
+                    break;
 
                 case float f:
-                    throw new NotImplementedException("Fill me in");
-                    //break;
+                    Write(f);
+                    break;
 
                 // Not: don't worry about handling strings that contain quote marks
                 case string s:
-                    throw new NotImplementedException("Fill me in");
-                    //break;
+                    Write("\"" + s + "\"");
+                    break;
 
                 case bool b:
-                    throw new NotImplementedException("Fill me in");
-                    //break;
+                    Write(b);
+                    break;
 
                 case IList list:
-                    throw new NotImplementedException("Fill me in");
-                    //break;
+                    WriteList(list);
+                    break;
 
                 default:
                     if (o.GetType().IsValueType)
@@ -231,7 +231,27 @@ namespace Assets.Serialization
         /// <param name="o">Object to serialize</param>
         private void WriteComplexObject(object o)
         {
-            throw new NotImplementedException("Fill me in");
+            (int id, bool isnew) = GetId(o);
+            if (!isnew) {
+                Write("#" + id.ToString());
+            }
+            else {
+                Write("#" + id.ToString());
+                var type = o.GetType().Name;
+                var fields = Utilities.SerializedFields(o);
+                WriteBracketedExpression("{", 
+                    () =>
+                    {
+                        WriteField("type", type, true);
+                        foreach(KeyValuePair<string, object> field in fields) {
+                            var name = field.Key;
+                            var val = field.Value;
+                            WriteField(name, val, false);
+                        }
+                    },
+                    "}"
+                );
+            }
         }
     }
 }
